@@ -1,0 +1,3 @@
+- 👋 Hi, I’m 032002543
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning HTML5
